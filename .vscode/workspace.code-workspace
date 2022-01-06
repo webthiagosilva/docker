@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+
+		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+		"editor.formatOnSave": true,
+
+		"explorer.compactFolders": false,
+
+		"[xml]": {
+			"editor.defaultFormatter": "DotJoshJohnson.xml"
+		},
+
+		"[html]": {
+			"editor.defaultFormatter": "vscode.html-language-features"
+		}
+
+
+	}
+}
